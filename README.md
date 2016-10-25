@@ -17,4 +17,4 @@ Just download fasta_renamer.sh to any directory and make it executable: `chmod +
 
 ##Usage
 
-$ fasta_renamer.sh
+`$ fasta_renamer.sh`
