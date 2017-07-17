@@ -11,10 +11,10 @@ The script has tree options:
   
   3 Rename all fasta files in this directory, the fasta header will be the same as the filename
 
-##Installation
+### Installation ###
 
 Just download fasta_renamer.sh to any directory and make it executable: `chmod +x fasta_renamer.sh`
 
-##Usage
+### Usage ###
 
 `$ fasta_renamer.sh`
